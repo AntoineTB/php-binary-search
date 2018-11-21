@@ -1,6 +1,5 @@
 {
     "name": "antoinetb/php-binary-search",
-    "version":"1.1.0",
     "license": "MIT",
     "description": "Binary search function for PHP",
     "homepage": "https://github.com/AntoineTB",
@@ -18,7 +17,7 @@
           "email": "michael@mkwd.net"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.1"
     },
